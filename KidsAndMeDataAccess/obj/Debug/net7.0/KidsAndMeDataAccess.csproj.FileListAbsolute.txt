@@ -1,0 +1,17 @@
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/bin/Debug/net7.0/KidsAndMeDataAccess.deps.json
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/bin/Debug/net7.0/KidsAndMeDataAccess.runtimeconfig.json
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/bin/Debug/net7.0/KidsAndMeDataAccess.dll
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/bin/Debug/net7.0/KidsAndMeDataAccess.pdb
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/bin/Debug/net7.0/KidsAndMeCommon.dll
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/bin/Debug/net7.0/KidsAndMeCommon.pdb
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.csproj.AssemblyReference.cache
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.AssemblyInfoInputs.cache
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.AssemblyInfo.cs
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.csproj.CoreCompileInputs.cache
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.csproj.CopyComplete
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.dll
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/refint/KidsAndMeDataAccess.dll
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.pdb
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/KidsAndMeDataAccess.genruntimeconfig.cache
+/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/Debug/net7.0/ref/KidsAndMeDataAccess.dll

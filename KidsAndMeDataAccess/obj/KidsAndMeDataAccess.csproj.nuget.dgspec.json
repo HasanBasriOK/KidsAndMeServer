@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/KidsAndMeDataAccess.csproj": {}
+  },
+  "projects": {
+    "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeCommon/KidsAndMeCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeCommon/KidsAndMeCommon.csproj",
+        "projectName": "KidsAndMeCommon",
+        "projectPath": "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeCommon/KidsAndMeCommon.csproj",
+        "packagesPath": "/Users/hasanok/.nuget/packages/",
+        "outputPath": "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeCommon/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hasanok/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.2.22477.23/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/KidsAndMeDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/KidsAndMeDataAccess.csproj",
+        "projectName": "KidsAndMeDataAccess",
+        "projectPath": "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/KidsAndMeDataAccess.csproj",
+        "packagesPath": "/Users/hasanok/.nuget/packages/",
+        "outputPath": "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeDataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hasanok/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeCommon/KidsAndMeCommon.csproj": {
+                "projectPath": "/Users/hasanok/RiderProjects/KidsAndMeServer/KidsAndMeCommon/KidsAndMeCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.2.22477.23/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
